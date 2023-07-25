@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hola! Soy Santiago 👋
 
-<!--
-**scioffi96/scioffi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy científico de datos con background en ingeniería biomédica y data engineering. 
 
-Here are some ideas to get you started:
+Comencé mi carrera profesional desempeñándome en ingeniería en rehabilitación, como líder de producto de un dispositivo de accesibilidad para personas con cuadriplejia. Ejerciendo mi profesión descubrí mi interés por los datos, por lo que decidí aprender y especializarme en ingeniería de datos, ciencia de datos y análisis de datos. Algunas de las
+herramientas que utilizo son:
+- Python;
+- MySQL;
+- MongoDB;
+- Power Bi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente me encuentro realizando una pasantía, trabajando en el área de data integration y machine learning.
+
+✉️ Para ponerte en contacto conmigo escribime a:
+- mi mail: santiagocioffi@gmail.com.
+- mi [LinkedIn](https://www.linkedin.com/in/santiago-cioffi/).
